@@ -8,3 +8,7 @@ Recursion_base/obj/project.nuget.cache
 Recursion_base/obj/Recursion_base.csproj.nuget.dgspec.json
 Recursion_base/obj/Recursion_base.csproj.nuget.g.targets
 Recursion_base/obj/Recursion_base.csproj.nuget.g.props
+Recursion_base/bin/Debug/net5.0/Recursion_base.dll
+
+obj/
+bin/
